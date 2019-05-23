@@ -7,15 +7,10 @@
 ### Directories
 
 MTA/           : the main folder
-
  |__ Docs/     : contains MTA turnstile data documentation and overview
- 
  |__ Data/     : turnstile csv data file goes here
- 
  |__ Temp/     : temporary data files for cleaning go here
- 
  |__ Models/   : contains model pickle files and prediction dataframes
- 
  |__ Figures/  : plots
 
 ### Files
